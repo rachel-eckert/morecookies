@@ -1,0 +1,23 @@
+{
+  "Name": "More Cookies for Json Assets",
+  "Author": "Rachel",
+  "Version": "1.0.0",
+  "Description": "Adds more cookies for JsonAssets",
+  "UniqueID": "rachel.morecookies",
+  "MinimumApiVersion": "3.8.0",
+
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+  },
+
+  "Dependencies": [
+    {
+      "UniqueID": "ppja.fruitsandveggies",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "ppja.moretrees",
+      "IsRequired": true
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Name": "Gingersnap Cookie",
+  "Description": "A cookie with a little bit of a kick",
+  "Category": "Cooking",
+  "Edibility": 100,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 200,
+  "IsColored": false,
+  "GiftTastes": {
+    "Love": ["Evelyn", "Harvey", "Kent", "Leah", "Linus", "Penny", "Robin"],
+    "Like": [
+      "Alex",
+      "Clint",
+      "Demetrius",
+      "Elliott",
+      "Emily",
+      "Gus",
+      "Jodi",
+      "Lewis",
+      "Marnie",
+      "Maru",
+      "Pam",
+      "Sam",
+      "George",
+      "Sandy",
+      "Sebastian",
+      "Shane",
+      "Willy"
+    ],
+    "Neutral": ["Wizard"],
+    "Dislike": ["Abigail", "Caroline", "Haley", "Krobus", "Pierre", "Dwarf"],
+    "Hate": ["Jas", "Leo", "Vincent"]
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 829,
+        "Count": 1
+      },
+      {
+        "Object": 245,
+        "Count": 1
+      },
+      {
+        "Object": -5,
+        "Count": 1
+      },
+      {
+        "Object": 246,
+        "Count": 1
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": "400",
+    "PurchaseRequirements": ["n willyHours"]
+  }
+}

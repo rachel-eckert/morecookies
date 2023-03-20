@@ -1,0 +1,65 @@
+{
+  "Name": "Black and White Cookie",
+  "Description": "A New York delight",
+  "Category": "Cooking",
+  "Edibility": 100,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 400,
+  "IsColored": false,
+  "GiftTastes": {
+    "Love": ["Abigail", "Vincent", "Jas", "Sam", "Marnie"],
+    "Like": [
+      "Alex",
+      "Caroline",
+      "Clint",
+      "Dwarf",
+      "Elliott",
+      "Emily",
+      "Evelyn",
+      "Gus",
+      "Haley",
+      "Jodi",
+      "Kent",
+      "Lewis",
+      "Linus",
+      "Maru",
+      "Pam",
+      "Penny",
+      "Pierre",
+      "Robin",
+      "Sandy",
+      "Sebastian",
+      "Shane",
+      "Wizard",
+      "Krobus",
+      "Willy"
+    ],
+    "Dislike": ["Demetrius", "George", "Harvey", "Leah"]
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 245,
+        "Count": 1
+      },
+      {
+        "Object": "Cocoa Pod",
+        "Count": 1
+      },
+      {
+        "Object": "Vanilla",
+        "Count": 1
+      },
+      {
+        "Object": -5,
+        "Count": 1
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": "800",
+    "EnableWithMod": "ppja.moretrees"
+  }
+}
