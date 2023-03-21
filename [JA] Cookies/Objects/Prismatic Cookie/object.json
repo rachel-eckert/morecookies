@@ -1,0 +1,88 @@
+{
+  "Name": "Prismatic Cookie",
+  "Description": "The rarest cookie of them all.",
+  "Category": "Cooking",
+  "Edibility": 75,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 4,
+    "Foraging": 0,
+    "MaxStamina": 0,
+    "MagnetRadius": 0,
+    "Speed": 2,
+    "Defense": 0,
+    "Attack": 0,
+    "Duration": 640
+  },
+  "Price": 3500,
+  "IsColored": false,
+  "GiftTastes": {
+    "Love": [
+      "Abigail",
+      "Alex",
+      "Caroline",
+      "Clint",
+      "Demetrius",
+      "Dwarf",
+      "Elliott",
+      "Emily",
+      "Evelyn",
+      "George",
+      "Gus",
+      "Haley",
+      "Harvey",
+      "Jas",
+      "Jodi",
+      "Kent",
+      "Lewis",
+      "Linus",
+      "Marnie",
+      "Maru",
+      "Pam",
+      "Penny",
+      "Pierre",
+      "Robin",
+      "Sam",
+      "Sandy",
+      "Sebastian",
+      "Shane",
+      "Vincent",
+      "Wizard",
+      "Krobus",
+      "Leah",
+      "Willy"
+    ],
+    "Like": [],
+    "Neutral": [],
+    "Dislike": [],
+    "Hate": []
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 454,
+        "Count": 1
+      },
+      {
+        "Object": 417,
+        "Count": 1
+      },
+      {
+        "Object": 268,
+        "Count": 1
+      },
+      {
+        "Object": 246,
+        "Count": 1
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": "2000",
+    "PurchaseRequirements": ["y2", "s 417 1"]
+  }
+}
