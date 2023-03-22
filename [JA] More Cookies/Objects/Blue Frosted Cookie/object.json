@@ -1,15 +1,24 @@
 {
-  "Name": "Black and White Cookie",
-  "Description": "A New York delight",
+  "Name": "Blue Frosted Cookie",
+  "Description": "What flavor is 'blue'?",
   "Category": "Cooking",
-  "Edibility": 100,
+  "Edibility": 20,
   "EdibleIsDrink": false,
   "EdibleBuffs": null,
-  "Price": 400,
+  "Price": 100,
   "IsColored": false,
   "GiftTastes": {
-    "Love": ["Abigail", "Vincent", "Jas", "Sam", "Marnie"],
-    "Like": [
+    "Love": [],
+    "Like": [],
+    "Neutral": [],
+    "Dislike": [],
+    "Hate": [
+      "Demetrius",
+      "George",
+      "Harvey",
+      "Leah",
+      "Sam",
+      "Marnie",
       "Alex",
       "Caroline",
       "Clint",
@@ -18,7 +27,6 @@
       "Emily",
       "Evelyn",
       "Gus",
-      "Haley",
       "Jodi",
       "Kent",
       "Lewis",
@@ -32,32 +40,32 @@
       "Sebastian",
       "Shane",
       "Wizard",
-      "Willy"
-    ],
-    "Dislike": ["Demetrius", "George", "Harvey", "Leah", "Krobus"]
+      "Krobus",
+      "Willy",
+      "Abigail",
+      "Haley",
+      "Jas",
+      "Vincent"
+    ]
   },
   "Recipe": {
     "ResultCount": 1,
     "Ingredients": [
       {
-        "Object": 245,
+        "Object": 258,
         "Count": 1
       },
       {
-        "Object": "Cocoa Pod",
+        "Object": 167,
         "Count": 1
       },
       {
-        "Object": "Vanilla",
-        "Count": 1
-      },
-      {
-        "Object": -5,
+        "Object": 246,
         "Count": 1
       }
     ],
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": "800"
+    "PurchasePrice": "100"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "Name": "Black and White Cookie",
-  "Description": "A New York delight",
+  "Name": "Strawberry Cookie",
+  "Description": "It's light and naturally sweetened.",
   "Category": "Cooking",
   "Edibility": 100,
   "EdibleIsDrink": false,
@@ -8,56 +8,59 @@
   "Price": 400,
   "IsColored": false,
   "GiftTastes": {
-    "Love": ["Abigail", "Vincent", "Jas", "Sam", "Marnie"],
+    "Love": ["Demetrius", "Maru", "Harvey", "Leah"],
     "Like": [
+      "Elliott",
+      "Jodi",
+      "Kent",
+      "Linus",
+      "Pam",
+      "Robin",
+      "Sandy",
+      "Shane",
       "Alex",
       "Caroline",
       "Clint",
-      "Dwarf",
-      "Elliott",
       "Emily",
       "Evelyn",
+      "George",
       "Gus",
-      "Haley",
-      "Jodi",
-      "Kent",
+      "Leo",
       "Lewis",
-      "Linus",
-      "Maru",
-      "Pam",
+      "Marnie",
       "Penny",
       "Pierre",
-      "Robin",
-      "Sandy",
+      "Sam",
       "Sebastian",
-      "Shane",
-      "Wizard",
-      "Willy"
+      "Willy",
+      "Wizard"
     ],
-    "Dislike": ["Demetrius", "George", "Harvey", "Leah", "Krobus"]
+    "Neutral": [],
+    "Dislike": ["Abigail", "Haley", "Jas", "Vincent", "Krobus"],
+    "Hate": []
   },
   "Recipe": {
     "ResultCount": 1,
     "Ingredients": [
       {
-        "Object": 245,
-        "Count": 1
-      },
-      {
-        "Object": "Cocoa Pod",
-        "Count": 1
-      },
-      {
-        "Object": "Vanilla",
+        "Object": 400,
         "Count": 1
       },
       {
         "Object": -5,
         "Count": 1
+      },
+      {
+        "Object": 246,
+        "Count": 1
+      },
+      {
+        "Object": -6,
+        "Count": 1
       }
     ],
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": "800"
+    "PurchasePrice": "300"
   }
 }

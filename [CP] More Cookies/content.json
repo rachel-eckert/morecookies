@@ -14,7 +14,13 @@
         {
           "Operation": "Append",
           "Target": ["Entries", "Universal_Like"],
-          "Value": "{{spacechase0.JsonAssets/ObjectId:Black and White Cookie}} {{spacechase0.JsonAssets/ObjectId:Gingersnap Cookie}} {{spacechase0.JsonAssets/ObjectId:Pumpkin Cookie}} {{spacechase0.JsonAssets/ObjectId:Snickerdoodle Cookie}}",
+          "Value": "{{spacechase0.JsonAssets/ObjectId:Black and White Cookie}} {{spacechase0.JsonAssets/ObjectId:Gingersnap Cookie}} {{spacechase0.JsonAssets/ObjectId:Pumpkin Cookie}} {{spacechase0.JsonAssets/ObjectId:Snickerdoodle Cookie}} {{spacechase0.JsonAssets/ObjectId:Strawberry Cookie}} {{spacechase0.JsonAssets/ObjectId:Sugar Cookie}}",
+          "Delimiter": " "
+        },
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Universal_Hate"],
+          "Value": "{{spacechase0.JsonAssets/ObjectId:Blue Frosted Cookie}}",
           "Delimiter": " "
         }
       ]
