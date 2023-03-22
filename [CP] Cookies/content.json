@@ -10,6 +10,12 @@
           "Target": ["Entries", "Universal_Love"],
           "Value": "{{spacechase0.JsonAssets/ObjectId:Prismatic Cookie}}",
           "Delimiter": " "
+        },
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Universal_Like"],
+          "Value": "{{spacechase0.JsonAssets/ObjectId:Black and White Cookie}} {{spacechase0.JsonAssets/ObjectId:Gingersnap Cookie}} {{spacechase0.JsonAssets/ObjectId:Pumpkin Cookie}} {{spacechase0.JsonAssets/ObjectId:Snickerdoodle Cookie}}",
+          "Delimiter": " "
         }
       ]
     }

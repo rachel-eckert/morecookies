@@ -8,7 +8,7 @@
   "Price": 200,
   "IsColored": false,
   "GiftTastes": {
-    "Love": ["Evelyn", "Harvey", "Kent", "Leah", "Linus", "Penny", "Robin"],
+    "Love": ["Evelyn", "Harvey", "Kent", "Linus", "Penny", "Robin"],
     "Like": [
       "Alex",
       "Clint",
@@ -30,7 +30,7 @@
     ],
     "Neutral": ["Wizard"],
     "Dislike": ["Abigail", "Caroline", "Haley", "Krobus", "Pierre", "Dwarf"],
-    "Hate": ["Jas", "Leo", "Vincent"]
+    "Hate": ["Jas", "Leo", "Vincent", "Leah"]
   },
   "Recipe": {
     "ResultCount": 1,

@@ -1,26 +1,14 @@
 {
   "Name": "Snickerdoodle Cookie",
-  "Description": "The rarest cookie of them all.",
+  "Description": "Soft, chewy, and full of cinnamon.",
   "Category": "Cooking",
-  "Edibility": 75,
+  "Edibility": 35,
   "EdibleIsDrink": false,
-  "EdibleBuffs": {
-    "Farming": 0,
-    "Fishing": 0,
-    "Mining": 0,
-    "Luck": 4,
-    "Foraging": 0,
-    "MaxStamina": 0,
-    "MagnetRadius": 0,
-    "Speed": 2,
-    "Defense": 0,
-    "Attack": 0,
-    "Duration": 640
-  },
-  "Price": 3500,
+  "Price": 125,
   "IsColored": false,
   "GiftTastes": {
-    "Love": [
+    "Love": ["Penny"],
+    "Like": [
       "Abigail",
       "Alex",
       "Caroline",
@@ -42,7 +30,6 @@
       "Marnie",
       "Maru",
       "Pam",
-      "Penny",
       "Pierre",
       "Robin",
       "Sam",
@@ -51,38 +38,34 @@
       "Shane",
       "Vincent",
       "Wizard",
-      "Krobus",
-      "Leah",
-      "Willy"
+      "Leah"
     ],
-    "Like": [],
     "Neutral": [],
-    "Dislike": [],
+    "Dislike": ["Krobus", "Willy", "Leah"],
     "Hate": []
   },
   "Recipe": {
     "ResultCount": 1,
     "Ingredients": [
       {
-        "Object": 454,
+        "Object": "Cinnamon Sticks",
         "Count": 1
       },
       {
-        "Object": 417,
-        "Count": 1
-      },
-      {
-        "Object": 268,
+        "Object": "Vanilla",
         "Count": 1
       },
       {
         "Object": 246,
         "Count": 1
+      },
+      {
+        "Object": 245,
+        "Count": 1
       }
     ],
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": "2000",
-    "PurchaseRequirements": ["y2", "s 417 1"]
+    "PurchasePrice": "100"
   }
 }
