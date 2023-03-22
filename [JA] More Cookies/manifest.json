@@ -3,7 +3,7 @@
   "Author": "Rachel",
   "Version": "1.0.0",
   "Description": "Adds more cookies for JsonAssets",
-  "UniqueID": "rachel.morecookies",
+  "UniqueID": "SnooMacarons.MoreCookiesJA",
   "MinimumApiVersion": "3.8.0",
 
   "ContentPackFor": {
@@ -11,10 +11,6 @@
   },
 
   "Dependencies": [
-    {
-      "UniqueID": "ppja.fruitsandveggies",
-      "IsRequired": false
-    },
     {
       "UniqueID": "ppja.moretrees",
       "IsRequired": true

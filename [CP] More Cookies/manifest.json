@@ -1,9 +1,9 @@
 {
-  "Name": "More Cookies for Json Assets",
+  "Name": "[CP] More Cookies for Json Assets",
   "Author": "Rachel",
   "Version": "1.0.0",
   "Description": "Adds more cookies for JsonAssets",
-  "UniqueID": "rachel.MoreCookiesCP",
+  "UniqueID": "SnooMacarons.MoreCookiesCP",
   "MinimumApiVersion": "3.8.0",
 
   "ContentPackFor": {
@@ -12,11 +12,7 @@
 
   "Dependencies": [
     {
-      "UniqueID": "ppja.fruitsandveggies",
-      "IsRequired": true
-    },
-    {
-      "UniqueID": "ppja.moretrees",
+      "UniqueID": "SnooMacarons.MoreCookiesJA",
       "IsRequired": true
     },
     {
